@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalidoreDev
 - 👀 I’m interested in desktop business application software and any integration with useful apps
-- 🌱 I’m currently working on integrating ERP with Sage API
+- 🌱 I’m currently working on a MAUI app for stock taking
 - 📫 Email:developer@calidore.com
 
 <!---
